@@ -17,7 +17,7 @@ var player2score =0;
 function preload(){
   back_img = loadImage("image/w1.jpg");
   player1_img = loadImage("image/p1.gif");
-  player2_img = loadAnimation("image/po1.png","image/po2.png","image/po3.png","image/po4.png","image/po5.png","image/po6.png","image/po7.png","image/po8.png");
+  player2_img = loadAnimation("image/po1.PNG","image/po2.PNG","image/po3.PNG","image/po4.PNG","image/po5.PNG","image/po6.PNG","image/po7.PNG","image/po8.PNG");
   fruit1_img = loadImage("images/apple2.png");
   fruit2_img = loadImage("images/banana2.png");
   fruit3_img = loadImage("images/melon2.png");
